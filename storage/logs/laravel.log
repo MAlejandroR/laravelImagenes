@@ -1,0 +1,106 @@
+[2024-02-09 19:47:29] local.INFO:
+ Datos del fichero C:\xampp\tmp\php5A74.tmp
+
+[2024-02-09 19:48:31] local.INFO: Datos del fichero C:\xampp\tmp\php4B1F.tmp  
+[2024-02-09 19:48:43] local.INFO: Datos del fichero C:\xampp\tmp\php7C52.tmp  
+[2024-02-09 19:49:03] local.INFO: Datos del fichero POST /subir_imagen HTTP/1.1
+Accept:             application/json, text/plain, */*
+Accept-Encoding:    gzip, deflate, br
+Accept-Language:    es,es-ES;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+Connection:         keep-alive
+Content-Length:     39671
+Content-Type:       multipart/form-data; boundary=----WebKitFormBoundarykiyScPiA2BssAcO9
+Cookie:             pma_lang=es; XSRF-TOKEN=eyJpdiI6IjZzSkJiVDJhN2xHdm9FQk52R25JbUE9PSIsInZhbHVlIjoiZ0Y1YW9nMlFFbzVUK2JRWUx4MURCUWxPRjEycmNENVBqMmRXejY1d21qRFJpVERWTStpV0xYVkZzMWJxa1lOVEhuRU0xMW9jaUs0VFpXUU9qYnhlR3hZd1R4TnR1ZklMc0FYYWNNZHFjTkV3bm11Q3dZN2JLRzRuTzJBdURLL0MiLCJtYWMiOiI1MzcxMmI1MDZiZjdlZmMwOWI0MWY3NzZjM2Y1YmUyYTJiMzk4ODAwMmY0MzRkZDEzNGVlN2RiODcxM2Y1ZjA2IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IlgyM0FLalVMR2NwWkxvNnpPVER0aWc9PSIsInZhbHVlIjoiSCswTjY0dkRNUFc3djF6MkNTQmEwWjBieXNoenRUTDVYWmNFNVFQRjYzR3crN3Z2bWpiSDJNWndiZzhQZlFUd0FJbTlEeTB4cUsyc2tRQzlmSWlIZHNBajFrV0pQcW1UT1dUT2ltdmZ2QlFIU21NN1ZRaG03clBmZE1JT2ZuV00iLCJtYWMiOiI2NmJkNWQzMzc4MTJkMjE4MTM5ZjU1NTgwM2QxZTRjNGFhYWUzMDEwNGJlMGM0OWFmNTNlZmRjMjA3ZjcwNzM5IiwidGFnIjoiIn0%3D
+Host:               localhost:8000
+Origin:             http://localhost:8000
+Referer:            http://localhost:8000/
+Sec-Ch-Ua:          "Not_A Brand";v="8", "Chromium";v="120", "Microsoft Edge";v="120"
+Sec-Ch-Ua-Mobile:   ?0
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Dest:     empty
+Sec-Fetch-Mode:     cors
+Sec-Fetch-Site:     same-origin
+User-Agent:         Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+X-Requested-With:   XMLHttpRequest
+X-Xsrf-Token:       eyJpdiI6IjZzSkJiVDJhN2xHdm9FQk52R25JbUE9PSIsInZhbHVlIjoiZ0Y1YW9nMlFFbzVUK2JRWUx4MURCUWxPRjEycmNENVBqMmRXejY1d21qRFJpVERWTStpV0xYVkZzMWJxa1lOVEhuRU0xMW9jaUs0VFpXUU9qYnhlR3hZd1R4TnR1ZklMc0FYYWNNZHFjTkV3bm11Q3dZN2JLRzRuTzJBdURLL0MiLCJtYWMiOiI1MzcxMmI1MDZiZjdlZmMwOWI0MWY3NzZjM2Y1YmUyYTJiMzk4ODAwMmY0MzRkZDEzNGVlN2RiODcxM2Y1ZjA2IiwidGFnIjoiIn0=
+Cookie: pma_lang=; XSRF-TOKEN=YOz4eDS3Gaa7rQTt5VUNsEnPqAAYXEeShE7UxOEY; laravel_session=1sP91eCrk3gRmN0V7JpHiL8xUSjmCdTwrSqzgA8K
+
+  
+[2024-02-09 19:52:24] local.INFO: Datos del fichero POST /subir_imagen HTTP/1.1
+Accept:             application/json, text/plain, */*
+Accept-Encoding:    gzip, deflate, br
+Accept-Language:    es,es-ES;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+Connection:         keep-alive
+Content-Length:     39671
+Content-Type:       multipart/form-data; boundary=----WebKitFormBoundaryioOVNJOdxJiJw1BG
+Cookie:             pma_lang=es; XSRF-TOKEN=eyJpdiI6IjZzSkJiVDJhN2xHdm9FQk52R25JbUE9PSIsInZhbHVlIjoiZ0Y1YW9nMlFFbzVUK2JRWUx4MURCUWxPRjEycmNENVBqMmRXejY1d21qRFJpVERWTStpV0xYVkZzMWJxa1lOVEhuRU0xMW9jaUs0VFpXUU9qYnhlR3hZd1R4TnR1ZklMc0FYYWNNZHFjTkV3bm11Q3dZN2JLRzRuTzJBdURLL0MiLCJtYWMiOiI1MzcxMmI1MDZiZjdlZmMwOWI0MWY3NzZjM2Y1YmUyYTJiMzk4ODAwMmY0MzRkZDEzNGVlN2RiODcxM2Y1ZjA2IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IlgyM0FLalVMR2NwWkxvNnpPVER0aWc9PSIsInZhbHVlIjoiSCswTjY0dkRNUFc3djF6MkNTQmEwWjBieXNoenRUTDVYWmNFNVFQRjYzR3crN3Z2bWpiSDJNWndiZzhQZlFUd0FJbTlEeTB4cUsyc2tRQzlmSWlIZHNBajFrV0pQcW1UT1dUT2ltdmZ2QlFIU21NN1ZRaG03clBmZE1JT2ZuV00iLCJtYWMiOiI2NmJkNWQzMzc4MTJkMjE4MTM5ZjU1NTgwM2QxZTRjNGFhYWUzMDEwNGJlMGM0OWFmNTNlZmRjMjA3ZjcwNzM5IiwidGFnIjoiIn0%3D
+Host:               localhost:8000
+Origin:             http://localhost:8000
+Referer:            http://localhost:8000/
+Sec-Ch-Ua:          "Not_A Brand";v="8", "Chromium";v="120", "Microsoft Edge";v="120"
+Sec-Ch-Ua-Mobile:   ?0
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Dest:     empty
+Sec-Fetch-Mode:     cors
+Sec-Fetch-Site:     same-origin
+User-Agent:         Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+X-Requested-With:   XMLHttpRequest
+X-Xsrf-Token:       eyJpdiI6IjZzSkJiVDJhN2xHdm9FQk52R25JbUE9PSIsInZhbHVlIjoiZ0Y1YW9nMlFFbzVUK2JRWUx4MURCUWxPRjEycmNENVBqMmRXejY1d21qRFJpVERWTStpV0xYVkZzMWJxa1lOVEhuRU0xMW9jaUs0VFpXUU9qYnhlR3hZd1R4TnR1ZklMc0FYYWNNZHFjTkV3bm11Q3dZN2JLRzRuTzJBdURLL0MiLCJtYWMiOiI1MzcxMmI1MDZiZjdlZmMwOWI0MWY3NzZjM2Y1YmUyYTJiMzk4ODAwMmY0MzRkZDEzNGVlN2RiODcxM2Y1ZjA2IiwidGFnIjoiIn0=
+Cookie: pma_lang=; XSRF-TOKEN=YOz4eDS3Gaa7rQTt5VUNsEnPqAAYXEeShE7UxOEY; laravel_session=1sP91eCrk3gRmN0V7JpHiL8xUSjmCdTwrSqzgA8K
+
+  
+[2024-02-09 19:52:29] local.INFO: Datos del fichero POST /subir_imagen HTTP/1.1
+Accept:             application/json, text/plain, */*
+Accept-Encoding:    gzip, deflate, br
+Accept-Language:    es,es-ES;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+Connection:         keep-alive
+Content-Length:     5340
+Content-Type:       multipart/form-data; boundary=----WebKitFormBoundaryJJIoA1lHB3odFMMm
+Cookie:             pma_lang=es; XSRF-TOKEN=eyJpdiI6IjZzSkJiVDJhN2xHdm9FQk52R25JbUE9PSIsInZhbHVlIjoiZ0Y1YW9nMlFFbzVUK2JRWUx4MURCUWxPRjEycmNENVBqMmRXejY1d21qRFJpVERWTStpV0xYVkZzMWJxa1lOVEhuRU0xMW9jaUs0VFpXUU9qYnhlR3hZd1R4TnR1ZklMc0FYYWNNZHFjTkV3bm11Q3dZN2JLRzRuTzJBdURLL0MiLCJtYWMiOiI1MzcxMmI1MDZiZjdlZmMwOWI0MWY3NzZjM2Y1YmUyYTJiMzk4ODAwMmY0MzRkZDEzNGVlN2RiODcxM2Y1ZjA2IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IlgyM0FLalVMR2NwWkxvNnpPVER0aWc9PSIsInZhbHVlIjoiSCswTjY0dkRNUFc3djF6MkNTQmEwWjBieXNoenRUTDVYWmNFNVFQRjYzR3crN3Z2bWpiSDJNWndiZzhQZlFUd0FJbTlEeTB4cUsyc2tRQzlmSWlIZHNBajFrV0pQcW1UT1dUT2ltdmZ2QlFIU21NN1ZRaG03clBmZE1JT2ZuV00iLCJtYWMiOiI2NmJkNWQzMzc4MTJkMjE4MTM5ZjU1NTgwM2QxZTRjNGFhYWUzMDEwNGJlMGM0OWFmNTNlZmRjMjA3ZjcwNzM5IiwidGFnIjoiIn0%3D
+Host:               localhost:8000
+Origin:             http://localhost:8000
+Referer:            http://localhost:8000/
+Sec-Ch-Ua:          "Not_A Brand";v="8", "Chromium";v="120", "Microsoft Edge";v="120"
+Sec-Ch-Ua-Mobile:   ?0
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Dest:     empty
+Sec-Fetch-Mode:     cors
+Sec-Fetch-Site:     same-origin
+User-Agent:         Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+X-Requested-With:   XMLHttpRequest
+X-Xsrf-Token:       eyJpdiI6IjZzSkJiVDJhN2xHdm9FQk52R25JbUE9PSIsInZhbHVlIjoiZ0Y1YW9nMlFFbzVUK2JRWUx4MURCUWxPRjEycmNENVBqMmRXejY1d21qRFJpVERWTStpV0xYVkZzMWJxa1lOVEhuRU0xMW9jaUs0VFpXUU9qYnhlR3hZd1R4TnR1ZklMc0FYYWNNZHFjTkV3bm11Q3dZN2JLRzRuTzJBdURLL0MiLCJtYWMiOiI1MzcxMmI1MDZiZjdlZmMwOWI0MWY3NzZjM2Y1YmUyYTJiMzk4ODAwMmY0MzRkZDEzNGVlN2RiODcxM2Y1ZjA2IiwidGFnIjoiIn0=
+Cookie: pma_lang=; XSRF-TOKEN=YOz4eDS3Gaa7rQTt5VUNsEnPqAAYXEeShE7UxOEY; laravel_session=1sP91eCrk3gRmN0V7JpHiL8xUSjmCdTwrSqzgA8K
+
+  
+[2024-02-09 19:52:40] local.INFO: Datos del fichero POST /subir_imagen HTTP/1.1
+Accept:             application/json, text/plain, */*
+Accept-Encoding:    gzip, deflate, br
+Accept-Language:    es,es-ES;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+Connection:         keep-alive
+Content-Length:     5340
+Content-Type:       multipart/form-data; boundary=----WebKitFormBoundaryNpCGi4TfMZ6fqaK1
+Cookie:             pma_lang=es; XSRF-TOKEN=eyJpdiI6IjZzSkJiVDJhN2xHdm9FQk52R25JbUE9PSIsInZhbHVlIjoiZ0Y1YW9nMlFFbzVUK2JRWUx4MURCUWxPRjEycmNENVBqMmRXejY1d21qRFJpVERWTStpV0xYVkZzMWJxa1lOVEhuRU0xMW9jaUs0VFpXUU9qYnhlR3hZd1R4TnR1ZklMc0FYYWNNZHFjTkV3bm11Q3dZN2JLRzRuTzJBdURLL0MiLCJtYWMiOiI1MzcxMmI1MDZiZjdlZmMwOWI0MWY3NzZjM2Y1YmUyYTJiMzk4ODAwMmY0MzRkZDEzNGVlN2RiODcxM2Y1ZjA2IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IlgyM0FLalVMR2NwWkxvNnpPVER0aWc9PSIsInZhbHVlIjoiSCswTjY0dkRNUFc3djF6MkNTQmEwWjBieXNoenRUTDVYWmNFNVFQRjYzR3crN3Z2bWpiSDJNWndiZzhQZlFUd0FJbTlEeTB4cUsyc2tRQzlmSWlIZHNBajFrV0pQcW1UT1dUT2ltdmZ2QlFIU21NN1ZRaG03clBmZE1JT2ZuV00iLCJtYWMiOiI2NmJkNWQzMzc4MTJkMjE4MTM5ZjU1NTgwM2QxZTRjNGFhYWUzMDEwNGJlMGM0OWFmNTNlZmRjMjA3ZjcwNzM5IiwidGFnIjoiIn0%3D
+Host:               localhost:8000
+Origin:             http://localhost:8000
+Referer:            http://localhost:8000/
+Sec-Ch-Ua:          "Not_A Brand";v="8", "Chromium";v="120", "Microsoft Edge";v="120"
+Sec-Ch-Ua-Mobile:   ?0
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Dest:     empty
+Sec-Fetch-Mode:     cors
+Sec-Fetch-Site:     same-origin
+User-Agent:         Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+X-Requested-With:   XMLHttpRequest
+X-Xsrf-Token:       eyJpdiI6IjZzSkJiVDJhN2xHdm9FQk52R25JbUE9PSIsInZhbHVlIjoiZ0Y1YW9nMlFFbzVUK2JRWUx4MURCUWxPRjEycmNENVBqMmRXejY1d21qRFJpVERWTStpV0xYVkZzMWJxa1lOVEhuRU0xMW9jaUs0VFpXUU9qYnhlR3hZd1R4TnR1ZklMc0FYYWNNZHFjTkV3bm11Q3dZN2JLRzRuTzJBdURLL0MiLCJtYWMiOiI1MzcxMmI1MDZiZjdlZmMwOWI0MWY3NzZjM2Y1YmUyYTJiMzk4ODAwMmY0MzRkZDEzNGVlN2RiODcxM2Y1ZjA2IiwidGFnIjoiIn0=
+Cookie: pma_lang=; XSRF-TOKEN=YOz4eDS3Gaa7rQTt5VUNsEnPqAAYXEeShE7UxOEY; laravel_session=1sP91eCrk3gRmN0V7JpHiL8xUSjmCdTwrSqzgA8K
+
+  
+[2024-02-09 19:55:28] local.INFO: Url -http://localhost/storage/images/idea.png-  
+[2024-02-09 19:57:51] local.INFO: Url -http://localhost:8000/storage/idea.png-  
+[2024-02-09 19:57:54] local.INFO: Url -http://localhost:8000/storage/idea.png-  
+[2024-02-09 19:58:17] local.INFO: Url -http://localhost:8000/storage/imagesidea.png-  
+[2024-02-09 19:58:21] local.INFO: Url -http://localhost:8000/storage/imagesa.PNG-  
+[2024-02-09 19:58:30] local.INFO: Url -http://localhost:8000/storage/images/a.PNG-  
+[2024-02-09 19:58:37] local.INFO: Url -http://localhost:8000/storage/images/droprown.dia-  
+[2024-02-09 19:58:42] local.INFO: Url -http://localhost:8000/storage/images/droprown.dia-  
+[2024-02-09 19:58:50] local.INFO: Url -http://localhost:8000/storage/images/droprown.png-  
